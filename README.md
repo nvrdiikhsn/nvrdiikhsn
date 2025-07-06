@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello👋
 
 <!--
 **nvrdiikhsn/nvrdiikhsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 
+![Anak Muda](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjAxYTh3MXNpaWh0enl6cm05cGx2aXpieXY1MGVuNnEzcTZnbGVyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lRdybfTVnAKPGWPHXS/giphy.gif)
